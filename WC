@@ -46,6 +46,7 @@
             background-color: rgb(45, 45, 45);
         }
     </style>
+    <script src="speculation.js"></script>
 </head>
 <center>
 
